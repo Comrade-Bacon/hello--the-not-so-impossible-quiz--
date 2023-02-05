@@ -258,7 +258,7 @@ function store () {
                     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                     `)
             }
-        
+        // test
         }else if (story.getLastAnswer() == "Home screne (2 points)"){
             
             if (info.score() >= 2){
