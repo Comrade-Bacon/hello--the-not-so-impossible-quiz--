@@ -1,5 +1,6 @@
 {
     "name": "Hello! --The not so Impossible Quiz-- 1.1",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
