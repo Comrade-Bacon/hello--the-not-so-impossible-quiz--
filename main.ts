@@ -1,6 +1,9 @@
 
 // set up functions
-
+function test () {
+    // this is a test for GitHub stuff (pull req)
+    console.log('test')
+}
 // setting up the finction for the store
 function store () {
     story.showPlayerChoices("Change Background", "Add life (6 Points)", "Veiw high scores", "Back to game")
